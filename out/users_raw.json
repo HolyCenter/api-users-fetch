@@ -1,17 +1,17 @@
 [
   {
-    "id": null,
-    "name": null,
+    "id": 1,
+    "name": "Leanne Graham",
     "username": "Bret",
-    "email": "Sincereapril.biz",
+    "email": "Sincere@april.biz",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
       "city": "Gwenborough",
       "zipcode": "92998-3874",
       "geo": {
-        "lat": "",
-        "lng": null
+        "lat": "-37.3159",
+        "lng": "81.1496"
       }
     },
     "phone": "1-770-736-8031 x56442",
@@ -26,7 +26,7 @@
     "id": 2,
     "name": "Ervin Howell",
     "username": "Antonette",
-    "email": "",
+    "email": "Shanna@melissa.tv",
     "address": {
       "street": "Victor Plains",
       "suite": "Suite 879",
@@ -39,13 +39,17 @@
     },
     "phone": "010-692-6593 x09125",
     "website": "anastasia.net",
-    "company": null
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
   },
   {
     "id": 3,
     "name": "Clementine Bauch",
     "username": "Samantha",
-    "email": null,
+    "email": "Nathan@yesenia.net",
     "address": {
       "street": "Douglas Extension",
       "suite": "Suite 847",
