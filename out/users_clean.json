@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": null,
+    "city": "Gwenborough",
+    "zipcode": "92998-3874",
+    "lat": null,
+    "lng": null,
+    "company_name": "Romaguera-Crona",
+    "website": "hildegard.org"
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": null,
+    "city": "Wisokyburgh",
+    "zipcode": "90566-7771",
+    "lat": -43.9509,
+    "lng": -34.4618,
+    "company_name": null,
+    "website": "anastasia.net"
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": null,
+    "city": "McKenziehaven",
+    "zipcode": "59590-4157",
+    "lat": -68.6102,
+    "lng": -47.0653,
+    "company_name": "Romaguera-Jacobson",
+    "website": "ramiro.info"
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "email": "julianne.oconner@kory.org",
+    "city": "South Elvis",
+    "zipcode": "53919-4257",
+    "lat": 29.4572,
+    "lng": -164.299,
+    "company_name": "Robel-Corkery",
+    "website": "kale.biz"
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "lucio_hettinger@annie.ca",
+    "city": "Roscoeview",
+    "zipcode": "33263",
+    "lat": -31.8129,
+    "lng": 62.5342,
+    "company_name": "Keebler LLC",
+    "website": "demarco.info"
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "username": "Leopoldo_Corkery",
+    "email": "karley_dach@jasper.info",
+    "city": "South Christy",
+    "zipcode": "23505-1337",
+    "lat": -71.4197,
+    "lng": 71.7478,
+    "company_name": "Considine-Lockman",
+    "website": "ola.org"
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "telly.hoeger@billy.biz",
+    "city": "Howemouth",
+    "zipcode": "58804-1099",
+    "lat": 24.8918,
+    "lng": 21.8984,
+    "company_name": "Johns Group",
+    "website": "elvis.io"
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "username": "Maxime_Nienow",
+    "email": "sherwood@rosamond.me",
+    "city": "Aliyaview",
+    "zipcode": "45169",
+    "lat": -14.399,
+    "lng": -120.7677,
+    "company_name": "Abernathy Group",
+    "website": "jacynthe.com"
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "username": "Delphine",
+    "email": "chaim_mcdermott@dana.io",
+    "city": "Bartholomebury",
+    "zipcode": "76495-3109",
+    "lat": 24.6463,
+    "lng": -168.8889,
+    "company_name": "Yost and Sons",
+    "website": "conrad.com"
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "username": "Moriah.Stanton",
+    "email": "rey.padberg@karina.biz",
+    "city": "Lebsackbury",
+    "zipcode": "31428-2261",
+    "lat": -38.2386,
+    "lng": 57.2232,
+    "company_name": "Hoeger LLC",
+    "website": "ambrose.net"
+  }
+]
