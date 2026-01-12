@@ -58,7 +58,7 @@ def write_to_clean(users: list[dict], output: pathlib.Path) -> None:
         json.dump(records, j, ensure_ascii=False, indent=2)
 
 def main() -> None: 
-    #api_to_json("https://jsonplaceholder.typicode.com/users", pathlib.Path("out/users_raw.json"))
+    api_to_json("https://jsonplaceholder.typicode.com/users", pathlib.Path("out/users_raw.json"))
     write_to_clean(read_json("out/users_raw.json"), pathlib.Path("out/users_clean.json"))
 
 if __name__ == "__main__":
